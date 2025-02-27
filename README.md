@@ -1,0 +1,2 @@
+# golangtraining
+For Golang training
