@@ -7,9 +7,12 @@ import (
 "github.com/esvillamil/golangtraining/pkg2"
 )
 
+import _ "github.com/esvillamil/golangtraining/holamundo"
+
 func init () {
 fmt.Println("Ready to launch ...")
 }
+
 
 func main() {
 saludo := "Liftoff!"
